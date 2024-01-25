@@ -137,7 +137,7 @@ body {
 
 .btn-primary {
     background: var(--orange-web);
-    box-shadow: 5px 10px 30px hsla(39, 100%, 50%, 0.3);
+    box-shadow: 5px 10px 30px hsl(60, 100%, 100%);
 }
 
 .btn-primary:is(:hover, :focus) {
